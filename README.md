@@ -11,7 +11,7 @@ The analysis answers:
 # Tools Used
 - **SQL** – Data cleaning and aggregation  
 - **Python (Pandas, Seaborn, Matplotlib)** – Exploratory data analysis and visualizations  
-- **Tableau / Excel** – Interactive dashboard and reporting  
+
 
 ---
 
@@ -23,8 +23,7 @@ The analysis answers:
 # Files
 - **employee_data.csv** – synthetic HR dataset  
 - **turnover_queries.sql** – SQL queries for turnover metrics  
-- **turnover_analysis.ipynb** – Python notebook with data exploration & charts  
-- **dashboard.png** – Tableau/Excel visualization (optional)  
+- **turnover_analysis.ipynb** – Python notebook with data exploration.    
 
 ---
 
