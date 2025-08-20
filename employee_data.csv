@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,TenureYears,Education,JobRole,MonthlyIncome,Attrition
+1001,59,Finance,5.2,High School,Analyst,5371,No
+1002,49,Finance,12.0,Bachelor,Sales Rep,5891,No
+1003,35,HR,4.4,Bachelor,Analyst,6756,No
+1004,28,Finance,6.9,Masters,Specialist,7225,No
+1005,41,HR,1.6,PhD,Manager,3094,Yes
+1006,59,IT,0.9,High School,Sales Rep,5674,Yes
+1007,39,HR,14.5,Masters,Analyst,9898,No
+1008,43,HR,12.6,High School,Sales Rep,3793,Yes
+1009,31,Finance,10.6,Bachelor,Sales Rep,5116,No
+1010,31,Finance,6.4,Bachelor,Manager,8779,No
+1011,44,Sales,3.0,PhD,Specialist,9166,No
+1012,56,Sales,2.8,Bachelor,Sales Rep,3814,No
+1013,44,IT,4.1,Bachelor,Analyst,3345,No
+1014,23,Sales,8.5,Masters,Technician,11554,No
+1015,42,HR,10.9,High School,Sales Rep,5443,No
+1016,22,Finance,10.1,High School,Sales Rep,10783,No
+1017,44,Sales,4.6,Masters,Manager,3984,Yes
+1018,50,Sales,14.3,PhD,Specialist,10790,No
+1019,58,IT,11.2,High School,Technician,3827,Yes
+1020,22,R&D,8.5,Bachelor,Analyst,6531,No
+1021,41,IT,9.4,High School,Technician,10147,Yes
+1022,53,HR,6.6,Bachelor,Analyst,7451,No
+1023,32,Finance,4.1,PhD,Specialist,6876,No
+1024,42,IT,5.7,Masters,Analyst,8959,No
+1025,45,Sales,11.5,High School,Manager,3126,Yes
+1026,47,Finance,0.7,Masters,Manager,6177,No
+1027,48,Finance,2.2,High School,Manager,11795,No
+1028,36,Sales,1.2,Bachelor,Manager,9024,No
+1029,35,IT,1.1,Masters,Technician,8109,No
+1030,23,Sales,12.9,High School,Specialist,7146,No
+1031,57,R&D,10.7,Bachelor,Analyst,10196,No
+1032,27,Finance,7.4,Masters,Analyst,6368,No
+1033,41,Customer Support,1.9,Masters,Manager,6797,No
+1034,29,Customer Support,7.6,High School,Manager,4792,Yes
+1035,59,HR,7.4,High School,Sales Rep,8732,Yes
+1036,38,Sales,3.0,High School,Specialist,6476,Yes
+1037,24,Sales,6.8,Bachelor,Technician,6417,No
+1038,45,HR,6.3,High School,Analyst,4645,Yes
+1039,34,HR,9.4,Masters,Sales Rep,6030,Yes
+1040,29,HR,9.7,Masters,Sales Rep,5872,No
+1041,46,Finance,1.2,High School,Analyst,6072,No
+1042,22,R&D,5.9,High School,Technician,4854,No
+1043,40,Sales,9.6,PhD,Sales Rep,7021,No
+1044,48,Finance,7.8,Masters,Sales Rep,7662,No
+1045,27,HR,12.9,Bachelor,Specialist,9514,No
+1046,28,Sales,10.1,PhD,Technician,8031,Yes
+1047,55,Finance,2.9,High School,Sales Rep,5708,No
+1048,34,R&D,1.5,High School,Technician,10112,No
+1049,37,Finance,9.8,Masters,Analyst,11393,No
+1050,56,R&D,0.9,High School,Manager,6507,No
+1051,24,HR,9.0,Bachelor,Sales Rep,9456,No
+1052,22,R&D,14.1,Masters,Specialist,7212,No
+1053,26,Sales,8.8,High School,Analyst,10970,No
+1054,24,HR,6.1,Masters,Technician,11766,No
+1055,49,Sales,9.8,High School,Analyst,3536,No
+1056,38,Customer Support,7.1,High School,Sales Rep,4625,No
+1057,46,IT,8.4,High School,Technician,10973,Yes
+1058,54,R&D,14.2,Bachelor,Manager,11577,No
+1059,30,IT,6.1,Bachelor,Analyst,11070,Yes
+1060,56,IT,14.4,Masters,Sales Rep,11666,No
+1061,34,R&D,13.6,High School,Specialist,11609,No
+1062,51,HR,3.3,High School,Technician,9490,No
+1063,35,Customer Support,1.5,Bachelor,Analyst,6600,No
+1064,28,Sales,2.0,High School,Analyst,9783,No
+1065,34,Finance,0.8,Bachelor,Manager,7971,Yes
+1066,43,Sales,1.9,High School,Manager,4205,No
+1067,41,Finance,10.4,Masters,Specialist,4990,Yes
+1068,36,Sales,1.5,High School,Specialist,8299,Yes
+1069,38,R&D,5.1,High School,Sales Rep,6572,No
+1070,44,Customer Support,12.8,PhD,Sales Rep,8975,No
+1071,46,Finance,0.8,Bachelor,Specialist,9320,No
+1072,45,HR,12.3,High School,Specialist,7380,Yes
+1073,49,Sales,4.6,High School,Technician,7757,No
+1074,35,Sales,2.2,PhD,Manager,5713,No
+1075,21,Finance,10.6,PhD,Sales Rep,8588,No
+1076,45,HR,9.6,Bachelor,Manager,3966,No
+1077,27,HR,13.2,PhD,Manager,7944,No
+1078,29,R&D,11.2,Masters,Specialist,6432,No
+1079,44,R&D,12.2,PhD,Technician,3688,No
+1080,21,R&D,4.6,Masters,Analyst,7243,No
+1081,28,R&D,3.1,Bachelor,Technician,6701,No
+1082,44,R&D,11.4,Bachelor,Technician,11533,No
+1083,31,R&D,12.2,Bachelor,Manager,8182,No
+1084,37,Customer Support,14.9,Bachelor,Technician,9704,No
+1085,28,HR,6.5,Bachelor,Sales Rep,7422,No
+1086,55,R&D,5.9,Masters,Manager,4759,No
+1087,55,HR,11.8,Masters,Sales Rep,5482,No
+1088,53,HR,5.4,Bachelor,Analyst,11058,No
+1089,25,IT,14.0,PhD,Manager,3951,No
+1090,59,Customer Support,12.9,High School,Analyst,11914,No
+1091,48,R&D,6.7,Bachelor,Manager,5079,No
+1092,27,Sales,11.4,PhD,Specialist,5717,No
+1093,29,Finance,11.4,High School,Technician,7524,No
+1094,28,Sales,2.0,Bachelor,Specialist,11477,No
+1095,32,Customer Support,13.6,Bachelor,Analyst,10311,Yes
+1096,54,Finance,7.8,Masters,Technician,10186,Yes
+1097,53,Customer Support,12.5,High School,Manager,5065,No
+1098,43,HR,5.1,High School,Technician,3768,No
+1099,44,Finance,13.5,PhD,Sales Rep,8490,Yes
+1100,57,HR,6.1,Masters,Technician,9645,Yes
+1101,55,Sales,0.7,Masters,Sales Rep,8083,Yes
+1102,42,Sales,13.6,Masters,Technician,8232,Yes
+1103,47,Finance,1.8,Masters,Sales Rep,8797,Yes
+1104,55,Finance,5.1,High School,Analyst,7926,No
+1105,21,R&D,14.3,High School,Specialist,9016,No
+1106,55,Customer Support,14.3,Bachelor,Manager,6335,Yes
+1107,57,R&D,8.8,Bachelor,Technician,11038,No
+1108,34,Customer Support,9.7,Masters,Specialist,7873,Yes
+1109,23,R&D,7.0,Masters,Manager,4481,No
+1110,21,HR,4.8,Masters,Manager,9305,No
+1111,25,Finance,5.3,Bachelor,Sales Rep,6451,No
+1112,46,Sales,10.3,PhD,Analyst,3054,Yes
+1113,34,Customer Support,11.4,PhD,Analyst,10643,No
+1114,59,Customer Support,12.0,Bachelor,Specialist,6462,Yes
+1115,47,Sales,11.9,Bachelor,Analyst,3832,No
+1116,29,R&D,1.8,Bachelor,Technician,8954,No
+1117,35,Customer Support,7.7,Bachelor,Analyst,11519,No
+1118,35,HR,1.3,Bachelor,Specialist,10221,Yes
+1119,46,Finance,8.5,Bachelor,Analyst,6310,No
+1120,33,Sales,6.9,Masters,Technician,6300,Yes
+1121,52,Finance,13.4,Masters,Sales Rep,9722,Yes
+1122,59,Customer Support,5.6,Masters,Specialist,10218,No
+1123,52,Customer Support,2.2,Masters,Sales Rep,10776,Yes
+1124,24,Sales,2.6,Bachelor,Sales Rep,6675,No
+1125,50,HR,11.5,PhD,Sales Rep,6054,No
+1126,57,IT,9.5,High School,Manager,10970,Yes
+1127,43,Sales,2.0,Bachelor,Manager,5143,No
+1128,59,IT,1.7,High School,Sales Rep,8207,No
+1129,35,R&D,10.7,PhD,Specialist,5538,No
+1130,49,IT,1.6,Masters,Technician,7547,No
+1131,56,HR,12.4,PhD,Technician,8619,No
+1132,33,R&D,10.7,Bachelor,Analyst,11356,No
+1133,52,IT,1.7,Masters,Specialist,9612,No
+1134,27,R&D,1.7,Bachelor,Manager,8005,Yes
+1135,42,IT,14.8,Masters,Sales Rep,3822,No
+1136,48,HR,5.9,High School,Analyst,3943,No
+1137,22,IT,5.9,High School,Technician,9150,Yes
+1138,26,IT,12.3,High School,Manager,7425,No
+1139,48,IT,14.2,PhD,Manager,11966,Yes
+1140,48,Sales,14.8,Bachelor,Sales Rep,5198,Yes
+1141,40,Sales,11.4,PhD,Technician,7242,No
+1142,50,Sales,6.0,High School,Specialist,6695,Yes
+1143,31,HR,1.7,Bachelor,Manager,6452,No
+1144,48,R&D,11.8,High School,Sales Rep,4308,No
+1145,45,Customer Support,8.6,PhD,Specialist,7177,No
+1146,59,IT,6.7,PhD,Technician,11705,No
+1147,53,IT,13.6,PhD,Manager,9852,Yes
+1148,21,HR,2.1,High School,Specialist,9035,No
+1149,47,IT,7.6,Bachelor,Specialist,6594,No
+1150,33,Sales,0.7,Bachelor,Specialist,7841,No
+1151,23,Customer Support,7.3,High School,Manager,4409,Yes
+1152,59,Finance,1.3,Bachelor,Manager,7566,No
+1153,26,IT,2.2,High School,Analyst,7491,No
+1154,28,Sales,2.2,Bachelor,Technician,4555,No
+1155,47,Finance,9.9,Masters,Sales Rep,3804,No
+1156,29,Customer Support,11.3,Masters,Specialist,4279,No
+1157,57,Finance,9.0,PhD,Analyst,10083,No
+1158,53,Sales,14.5,Masters,Sales Rep,8986,No
+1159,44,R&D,5.9,Masters,Analyst,8619,Yes
+1160,35,R&D,4.6,Masters,Manager,4387,No
+1161,52,Finance,13.1,High School,Specialist,5679,No
+1162,52,HR,3.7,Masters,Sales Rep,5106,No
+1163,44,Finance,14.5,Masters,Sales Rep,11173,No
+1164,32,IT,0.7,PhD,Sales Rep,7223,Yes
+1165,59,IT,14.6,Masters,Sales Rep,7831,No
+1166,22,R&D,1.1,Masters,Sales Rep,5768,Yes
+1167,23,HR,13.4,Bachelor,Analyst,6186,No
+1168,57,Sales,8.2,PhD,Specialist,5573,Yes
+1169,37,IT,14.9,PhD,Manager,5599,No
+1170,22,R&D,1.6,PhD,Manager,7033,No
+1171,22,Customer Support,8.5,PhD,Manager,11428,No
+1172,48,R&D,14.6,PhD,Manager,4304,Yes
+1173,43,IT,8.1,PhD,Analyst,10368,Yes
+1174,57,IT,9.6,High School,Technician,8877,Yes
+1175,52,R&D,10.6,Masters,Specialist,4301,No
+1176,53,Sales,7.1,PhD,Sales Rep,5541,Yes
+1177,21,Finance,9.6,Masters,Technician,5051,No
+1178,39,IT,9.0,Masters,Manager,9809,No
+1179,22,R&D,13.6,High School,Technician,11633,Yes
+1180,46,R&D,1.2,PhD,Specialist,11996,No
+1181,52,HR,4.6,Bachelor,Sales Rep,3074,No
+1182,26,Finance,14.3,High School,Sales Rep,9981,Yes
+1183,52,Customer Support,13.4,Bachelor,Specialist,8475,No
+1184,24,Sales,7.1,Masters,Specialist,11232,No
+1185,31,Customer Support,9.5,Masters,Manager,10184,No
+1186,37,Finance,4.5,High School,Sales Rep,8796,No
+1187,58,Finance,3.2,High School,Technician,10141,No
+1188,44,Finance,7.2,Bachelor,Analyst,4622,No
+1189,25,Customer Support,5.6,PhD,Analyst,11041,No
+1190,54,Finance,9.0,Bachelor,Specialist,3341,No
+1191,26,R&D,1.6,High School,Manager,5074,No
+1192,42,Customer Support,14.6,Bachelor,Analyst,10992,No
+1193,31,Finance,14.8,High School,Sales Rep,3645,Yes
+1194,36,R&D,10.6,Bachelor,Specialist,7263,Yes
+1195,53,HR,8.3,High School,Technician,11801,Yes
+1196,29,Finance,5.0,High School,Specialist,9136,No
+1197,26,Customer Support,12.3,High School,Technician,11646,Yes
+1198,36,IT,10.4,PhD,Specialist,5969,No
+1199,49,Finance,2.9,Bachelor,Specialist,6028,Yes
+1200,23,IT,13.7,Bachelor,Specialist,10643,No
